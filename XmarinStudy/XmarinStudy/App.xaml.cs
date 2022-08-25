@@ -15,8 +15,19 @@ namespace XmarinStudy
 
             DependencyService.Register<MockDataStore>();
             //MainPage = new AppShell();
+
             //MainPage = new ch_2_ContentPage();
-            MainPage = new NavigationPage(new ch_3_ToobarPage());
+
+            //MainPage = new NavigationPage(new ch_3_ToobarPage());
+
+            //MainPage = new ch_4_TabbedPage();
+
+            
+            TabbedPage tabbed = new TabbedPage();
+            tabbed.Children.Add(new ch_2_ContentPage() { Title = "page1"});
+            tabbed.Children.Add(new ch_2_ContentPage2() { Title = "page2" });
+            tabbed.Children.Add(new ch_3_ToobarPage() { Title = "page3" });
+            MainPage = tabbed;
         }
 
         protected override void OnStart()

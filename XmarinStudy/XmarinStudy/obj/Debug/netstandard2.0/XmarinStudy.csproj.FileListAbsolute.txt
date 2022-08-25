@@ -62,3 +62,4 @@ C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandar
 C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\refint\XmarinStudy.dll
 C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\XmarinStudy.pdb
 C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\ref\XmarinStudy.dll
+C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\Views\ch_4_TabbedPage.xaml.g.cs
