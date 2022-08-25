@@ -63,3 +63,6 @@ C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandar
 C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\XmarinStudy.pdb
 C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\ref\XmarinStudy.dll
 C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\Views\ch_4_TabbedPage.xaml.g.cs
+C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\Views\ch_6_FlyoutPage.xaml.g.cs
+C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\Views\ch_6_FlyoutPageDetail.xaml.g.cs
+C:\Development\xamarin\XamarinStudy\XmarinStudy\XmarinStudy\obj\Debug\netstandard2.0\Views\ch_6_FlyoutPageFlyout.xaml.g.cs
