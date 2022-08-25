@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nku5YnQ6F8KjkY3PCyNW0kTs+HmtRDZelSLkrbvUCAV/Ni5dJ47LO0HNxrNvKpJb+qccwXWQ1oHCjTWnc758sQ==",
+  "dgSpecHash": "2p+yR9P0h1RH/j/AA4Lz4LR5HnnCPuTCCJL0Qrji7VhIKCbE3XiYyonsnuPuVyU1jOxyCsdER2h7Spofl1Dl7Q==",
   "success": true,
-  "projectFilePath": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.Android\\XmarinStudy.Android.csproj",
+  "projectFilePath": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.Android\\XmarinStudy.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rlaud\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\rlaud\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

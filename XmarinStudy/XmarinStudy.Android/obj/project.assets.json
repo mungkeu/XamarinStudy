@@ -3178,11 +3178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.Android\\XmarinStudy.Android.csproj",
+      "projectUniqueName": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.Android\\XmarinStudy.Android.csproj",
       "projectName": "XmarinStudy.Android",
-      "projectPath": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.Android\\XmarinStudy.Android.csproj",
+      "projectPath": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.Android\\XmarinStudy.Android.csproj",
       "packagesPath": "C:\\Users\\rlaud\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.Android\\obj\\",
+      "outputPath": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3203,8 +3203,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy\\XmarinStudy.csproj": {
-              "projectPath": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy\\XmarinStudy.csproj"
+            "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy\\XmarinStudy.csproj": {
+              "projectPath": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy\\XmarinStudy.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rr+EoIwCWNuppXcm1QmfSpJpu11z97Q0iuEfmisRsfMq9T/v1Octl3o2a44M72po3V/UdYUbtcV8NniRY5FSvQ==",
+  "dgSpecHash": "59l7HrNkujAhNe+845fps73/6sJFJnpzDV00Xf83HFKWhFCGGzIPfCwEPfvxK+K8+IeO1YaohZb2dhiKoVN/fg==",
   "success": true,
-  "projectFilePath": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.UWP\\XmarinStudy.UWP.csproj",
+  "projectFilePath": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.UWP\\XmarinStudy.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rlaud\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\rlaud\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

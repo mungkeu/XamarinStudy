@@ -9051,11 +9051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.UWP\\XmarinStudy.UWP.csproj",
+      "projectUniqueName": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.UWP\\XmarinStudy.UWP.csproj",
       "projectName": "XmarinStudy.UWP",
-      "projectPath": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.UWP\\XmarinStudy.UWP.csproj",
+      "projectPath": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.UWP\\XmarinStudy.UWP.csproj",
       "packagesPath": "C:\\Users\\rlaud\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.UWP\\obj\\",
+      "outputPath": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9077,8 +9077,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy\\XmarinStudy.csproj": {
-              "projectPath": "C:\\Development\\xmarin\\XamarinStudy\\XmarinStudy\\XmarinStudy\\XmarinStudy.csproj"
+            "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy\\XmarinStudy.csproj": {
+              "projectPath": "C:\\Development\\xamarin\\XamarinStudy\\XmarinStudy\\XmarinStudy\\XmarinStudy.csproj"
             }
           }
         }

@@ -15,7 +15,8 @@ namespace XmarinStudy
 
             DependencyService.Register<MockDataStore>();
             //MainPage = new AppShell();
-            MainPage = new ch_2_ContentPage();
+            //MainPage = new ch_2_ContentPage();
+            MainPage = new NavigationPage(new ch_3_ToobarPage());
         }
 
         protected override void OnStart()
