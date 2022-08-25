@@ -23,11 +23,13 @@ namespace XmarinStudy
             //MainPage = new ch_4_TabbedPage();
 
             
-            TabbedPage tabbed = new TabbedPage();
-            tabbed.Children.Add(new ch_2_ContentPage() { Title = "page1"});
-            tabbed.Children.Add(new ch_2_ContentPage2() { Title = "page2" });
-            tabbed.Children.Add(new ch_3_ToobarPage() { Title = "page3" });
-            MainPage = tabbed;
+            //TabbedPage tabbed = new TabbedPage();
+            //tabbed.Children.Add(new ch_2_ContentPage() { Title = "page1"});
+            //tabbed.Children.Add(new ch_2_ContentPage2() { Title = "page2" });
+            //tabbed.Children.Add(new ch_3_ToobarPage() { Title = "page3" });
+            //MainPage = tabbed;
+
+            MainPage = new ch_5_CarouselPage();
         }
 
         protected override void OnStart()
